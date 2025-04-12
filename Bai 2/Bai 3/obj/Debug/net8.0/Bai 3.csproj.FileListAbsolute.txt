@@ -1,0 +1,15 @@
+D:\Kì 3\Back end\BT C#\Bai 2\Bai 3\bin\Debug\net8.0\Bai 3.exe
+D:\Kì 3\Back end\BT C#\Bai 2\Bai 3\bin\Debug\net8.0\Bai 3.deps.json
+D:\Kì 3\Back end\BT C#\Bai 2\Bai 3\bin\Debug\net8.0\Bai 3.runtimeconfig.json
+D:\Kì 3\Back end\BT C#\Bai 2\Bai 3\bin\Debug\net8.0\Bai 3.dll
+D:\Kì 3\Back end\BT C#\Bai 2\Bai 3\bin\Debug\net8.0\Bai 3.pdb
+D:\Kì 3\Back end\BT C#\Bai 2\Bai 3\obj\Debug\net8.0\Bai 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 3\Back end\BT C#\Bai 2\Bai 3\obj\Debug\net8.0\Bai 3.AssemblyInfoInputs.cache
+D:\Kì 3\Back end\BT C#\Bai 2\Bai 3\obj\Debug\net8.0\Bai 3.AssemblyInfo.cs
+D:\Kì 3\Back end\BT C#\Bai 2\Bai 3\obj\Debug\net8.0\Bai 3.csproj.CoreCompileInputs.cache
+D:\Kì 3\Back end\BT C#\Bai 2\Bai 3\obj\Debug\net8.0\Bai 3.sourcelink.json
+D:\Kì 3\Back end\BT C#\Bai 2\Bai 3\obj\Debug\net8.0\Bai 3.dll
+D:\Kì 3\Back end\BT C#\Bai 2\Bai 3\obj\Debug\net8.0\refint\Bai 3.dll
+D:\Kì 3\Back end\BT C#\Bai 2\Bai 3\obj\Debug\net8.0\Bai 3.pdb
+D:\Kì 3\Back end\BT C#\Bai 2\Bai 3\obj\Debug\net8.0\Bai 3.genruntimeconfig.cache
+D:\Kì 3\Back end\BT C#\Bai 2\Bai 3\obj\Debug\net8.0\ref\Bai 3.dll
