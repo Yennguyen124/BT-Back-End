@@ -1,0 +1,14 @@
+D:\Kì 3\Back end\Bài 9\Bài 9\bin\Debug\net8.0\Bài 9.exe
+D:\Kì 3\Back end\Bài 9\Bài 9\bin\Debug\net8.0\Bài 9.deps.json
+D:\Kì 3\Back end\Bài 9\Bài 9\bin\Debug\net8.0\Bài 9.runtimeconfig.json
+D:\Kì 3\Back end\Bài 9\Bài 9\bin\Debug\net8.0\Bài 9.dll
+D:\Kì 3\Back end\Bài 9\Bài 9\bin\Debug\net8.0\Bài 9.pdb
+D:\Kì 3\Back end\Bài 9\Bài 9\obj\Debug\net8.0\Bài 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 3\Back end\Bài 9\Bài 9\obj\Debug\net8.0\Bài 9.AssemblyInfoInputs.cache
+D:\Kì 3\Back end\Bài 9\Bài 9\obj\Debug\net8.0\Bài 9.AssemblyInfo.cs
+D:\Kì 3\Back end\Bài 9\Bài 9\obj\Debug\net8.0\Bài 9.csproj.CoreCompileInputs.cache
+D:\Kì 3\Back end\Bài 9\Bài 9\obj\Debug\net8.0\Bài 9.dll
+D:\Kì 3\Back end\Bài 9\Bài 9\obj\Debug\net8.0\refint\Bài 9.dll
+D:\Kì 3\Back end\Bài 9\Bài 9\obj\Debug\net8.0\Bài 9.pdb
+D:\Kì 3\Back end\Bài 9\Bài 9\obj\Debug\net8.0\Bài 9.genruntimeconfig.cache
+D:\Kì 3\Back end\Bài 9\Bài 9\obj\Debug\net8.0\ref\Bài 9.dll
