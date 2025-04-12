@@ -1,0 +1,15 @@
+D:\Kì 3\Back end\Ba1_Lab2\Bai 3_Lab2\bin\Debug\net8.0\Bai 3_Lab2.exe
+D:\Kì 3\Back end\Ba1_Lab2\Bai 3_Lab2\bin\Debug\net8.0\Bai 3_Lab2.deps.json
+D:\Kì 3\Back end\Ba1_Lab2\Bai 3_Lab2\bin\Debug\net8.0\Bai 3_Lab2.runtimeconfig.json
+D:\Kì 3\Back end\Ba1_Lab2\Bai 3_Lab2\bin\Debug\net8.0\Bai 3_Lab2.dll
+D:\Kì 3\Back end\Ba1_Lab2\Bai 3_Lab2\bin\Debug\net8.0\Bai 3_Lab2.pdb
+D:\Kì 3\Back end\Ba1_Lab2\Bai 3_Lab2\obj\Debug\net8.0\Bai 3_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 3\Back end\Ba1_Lab2\Bai 3_Lab2\obj\Debug\net8.0\Bai 3_Lab2.AssemblyInfoInputs.cache
+D:\Kì 3\Back end\Ba1_Lab2\Bai 3_Lab2\obj\Debug\net8.0\Bai 3_Lab2.AssemblyInfo.cs
+D:\Kì 3\Back end\Ba1_Lab2\Bai 3_Lab2\obj\Debug\net8.0\Bai 3_Lab2.csproj.CoreCompileInputs.cache
+D:\Kì 3\Back end\Ba1_Lab2\Bai 3_Lab2\obj\Debug\net8.0\Bai 3_Lab2.sourcelink.json
+D:\Kì 3\Back end\Ba1_Lab2\Bai 3_Lab2\obj\Debug\net8.0\Bai 3_Lab2.dll
+D:\Kì 3\Back end\Ba1_Lab2\Bai 3_Lab2\obj\Debug\net8.0\refint\Bai 3_Lab2.dll
+D:\Kì 3\Back end\Ba1_Lab2\Bai 3_Lab2\obj\Debug\net8.0\Bai 3_Lab2.pdb
+D:\Kì 3\Back end\Ba1_Lab2\Bai 3_Lab2\obj\Debug\net8.0\Bai 3_Lab2.genruntimeconfig.cache
+D:\Kì 3\Back end\Ba1_Lab2\Bai 3_Lab2\obj\Debug\net8.0\ref\Bai 3_Lab2.dll
