@@ -1,0 +1,14 @@
+D:\Kì 3\Back end\Bài 6\bin\Debug\net8.0\Bài 6.exe
+D:\Kì 3\Back end\Bài 6\bin\Debug\net8.0\Bài 6.deps.json
+D:\Kì 3\Back end\Bài 6\bin\Debug\net8.0\Bài 6.runtimeconfig.json
+D:\Kì 3\Back end\Bài 6\bin\Debug\net8.0\Bài 6.dll
+D:\Kì 3\Back end\Bài 6\bin\Debug\net8.0\Bài 6.pdb
+D:\Kì 3\Back end\Bài 6\obj\Debug\net8.0\Bài 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 3\Back end\Bài 6\obj\Debug\net8.0\Bài 6.AssemblyInfoInputs.cache
+D:\Kì 3\Back end\Bài 6\obj\Debug\net8.0\Bài 6.AssemblyInfo.cs
+D:\Kì 3\Back end\Bài 6\obj\Debug\net8.0\Bài 6.csproj.CoreCompileInputs.cache
+D:\Kì 3\Back end\Bài 6\obj\Debug\net8.0\Bài 6.dll
+D:\Kì 3\Back end\Bài 6\obj\Debug\net8.0\refint\Bài 6.dll
+D:\Kì 3\Back end\Bài 6\obj\Debug\net8.0\Bài 6.pdb
+D:\Kì 3\Back end\Bài 6\obj\Debug\net8.0\Bài 6.genruntimeconfig.cache
+D:\Kì 3\Back end\Bài 6\obj\Debug\net8.0\ref\Bài 6.dll

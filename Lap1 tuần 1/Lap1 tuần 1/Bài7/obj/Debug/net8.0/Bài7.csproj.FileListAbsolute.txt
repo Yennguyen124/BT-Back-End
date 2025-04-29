@@ -1,0 +1,14 @@
+D:\Kì 3\Back end\Bài7\bin\Debug\net8.0\Bài7.exe
+D:\Kì 3\Back end\Bài7\bin\Debug\net8.0\Bài7.deps.json
+D:\Kì 3\Back end\Bài7\bin\Debug\net8.0\Bài7.runtimeconfig.json
+D:\Kì 3\Back end\Bài7\bin\Debug\net8.0\Bài7.dll
+D:\Kì 3\Back end\Bài7\bin\Debug\net8.0\Bài7.pdb
+D:\Kì 3\Back end\Bài7\obj\Debug\net8.0\Bài7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 3\Back end\Bài7\obj\Debug\net8.0\Bài7.AssemblyInfoInputs.cache
+D:\Kì 3\Back end\Bài7\obj\Debug\net8.0\Bài7.AssemblyInfo.cs
+D:\Kì 3\Back end\Bài7\obj\Debug\net8.0\Bài7.csproj.CoreCompileInputs.cache
+D:\Kì 3\Back end\Bài7\obj\Debug\net8.0\Bài7.dll
+D:\Kì 3\Back end\Bài7\obj\Debug\net8.0\refint\Bài7.dll
+D:\Kì 3\Back end\Bài7\obj\Debug\net8.0\Bài7.pdb
+D:\Kì 3\Back end\Bài7\obj\Debug\net8.0\Bài7.genruntimeconfig.cache
+D:\Kì 3\Back end\Bài7\obj\Debug\net8.0\ref\Bài7.dll

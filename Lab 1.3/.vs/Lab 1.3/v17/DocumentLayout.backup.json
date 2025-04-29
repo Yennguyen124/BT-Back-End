@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 1.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C12D7809-7815-42C4-A43E-C159D56E748B}|Lab 1.3\\Lab 1.3.csproj|d:\\k\u00EC 3\\back end\\bt c#\\lab 1.3\\lab 1.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12D7809-7815-42C4-A43E-C159D56E748B}|Lab 1.3\\Lab 1.3.csproj|solutionrelative:lab 1.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 1.3\\Lab 1.3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab 1.3\\Program.cs",
+              "ToolTip": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 1.3\\Lab 1.3\\Program.cs",
+              "RelativeToolTip": "Lab 1.3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:18:44.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
