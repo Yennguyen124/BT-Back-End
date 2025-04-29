@@ -20,7 +20,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -28,10 +28,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\K\u00EC 3\\Back end\\Lap1 tu\u1EA7n 1\\b\u00E0i1\\Program.cs",
               "ToolTip": "D:\\K\u00EC 3\\Back end\\Lap1 tu\u1EA7n 1\\b\u00E0i1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:29:26.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T11:29:26.318Z"
             },
             {
               "$type": "Document",
@@ -41,8 +39,7 @@
               "ToolTip": "D:\\K\u00EC 3\\Back end\\Lap1 tu\u1EA7n 1\\b\u00E0i1\\Lab1_Tuan1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-12T11:29:25.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T11:29:25.919Z"
             }
           ]
         }
