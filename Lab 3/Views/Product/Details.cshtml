@@ -1,0 +1,18 @@
+﻿@model Lab_3.Models.Product
+@{
+    ViewData["Title"] = "Details";
+}
+<h2>Chi tiết sản phẩm</h2>
+
+<div>
+    <h4>@Model.Name</h4>
+    <hr />
+    <p>Mã sản phẩm: @Model.Id</p>
+    <p>Tên sản phẩm: @Model.Name</p>
+    <p>Giá: @Model.Price</p>
+</div>
+<div>
+    <a href="/">Quay lại</a>
+</div>
+
+

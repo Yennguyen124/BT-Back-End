@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34C4E2-7065-43A5-9631-9D135C487B97}|Lab 3\\Lab 3.csproj|d:\\k\u00EC 3\\back end\\bt c#\\lab 3\\lab 3\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE34C4E2-7065-43A5-9631-9D135C487B97}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34C4E2-7065-43A5-9631-9D135C487B97}|Lab 3\\Lab 3.csproj|d:\\k\u00EC 3\\back end\\bt c#\\lab 3\\lab 3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE34C4E2-7065-43A5-9631-9D135C487B97}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34C4E2-7065-43A5-9631-9D135C487B97}|Lab 3\\Lab 3.csproj|d:\\k\u00EC 3\\back end\\bt c#\\lab 3\\lab 3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE34C4E2-7065-43A5-9631-9D135C487B97}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34C4E2-7065-43A5-9631-9D135C487B97}|Lab 3\\Lab 3.csproj|d:\\k\u00EC 3\\back end\\bt c#\\lab 3\\lab 3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE34C4E2-7065-43A5-9631-9D135C487B97}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 3\\Lab 3\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab 3\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 3\\Lab 3\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Lab 3\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T14:05:10.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 3\\Lab 3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab 3\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 3\\Lab 3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab 3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:02:03.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 3\\Lab 3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Lab 3\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 3\\Lab 3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Lab 3\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:57:08.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 3\\Lab 3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Lab 3\\Models\\Product.cs",
+              "ToolTip": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 3\\Lab 3\\Models\\Product.cs",
+              "RelativeToolTip": "Lab 3\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:56:36.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
